@@ -1,5 +1,5 @@
 import components.addPerson as add
-import components.getDirectory as get
+import components.getDirectory as get1
 import components.search as search
 
 class Menu:
@@ -44,7 +44,7 @@ class Menu:
             if selection is None:
                 break
             elif selection == 1:
-                get.printDirectory()
+                get1.printDirectory()
             elif selection == 2:
                 add.addPerson()
             elif selection == 3:

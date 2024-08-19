@@ -13,4 +13,5 @@ def printDirectory():
     directory = readDirectory()
     print("İsim\tNumara\n"+"="*18)
     for i in directory:
-        print(f"{i["isim"]}:\t{i["numara"]}")
+        print(f"{i['isim']}:\t{i['numara']}")
+
