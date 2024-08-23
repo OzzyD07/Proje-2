@@ -26,7 +26,7 @@ Projeyi bilgisayarınıza klonlamak için şu adımları izleyin:
     ```
 2. Python 3.x'in bilgisayarınızda kurulu olduğundan emin olun.
 
-3. Gerekli paketlerin kurulumu için Bu kodu çalıştırın
+3. Gerekli paketlerin kurulumu için bu kodu çalıştırın
     ```bash
     pip install -r requirements.txt    
     ```
