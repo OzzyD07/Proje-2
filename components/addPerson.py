@@ -10,5 +10,5 @@ def addPerson():
         file.write(str(person)+ ",")
         file.close()
     except: 
-        print("Lütfen bir geçerli bir isim veya numara girin")
+        print("Lütfen geçerli bir isim veya numara girin")
         addPerson()
