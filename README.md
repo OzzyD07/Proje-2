@@ -1,4 +1,4 @@
-# Proje-1: Python Menü Uygulaması
+# Python Rehber Uygulaması
 
 Bu proje, bir Python menü tabanlı rehber uygulamasıdır. Bu uygulamayı kullanarak rehbere yeni kişi ekleyebilir, silebir, düzünleyebilir, numaraya ve isime göre arama yapabilirsiniz.
 
